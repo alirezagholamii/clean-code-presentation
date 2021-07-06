@@ -1,0 +1,17 @@
+/*
+
+Coding is for humans
+
+
+Programming is the art of telling another human
+what one wants the computer to do.
+Donald Knuth
+
+
+
+Any fool can write code that a computer can understand
+Good programmers write code that humans can understand.
+Martin Fowler
+
+
+*/
